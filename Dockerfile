@@ -1,4 +1,4 @@
-FROM jupyter/pyspark-notebook
+FROM jupyter/pyspark-notebook:python-3.8.8
 
 USER root
 
